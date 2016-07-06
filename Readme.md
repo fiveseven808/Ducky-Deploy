@@ -32,7 +32,7 @@ This project is not quite finished as there's a couple of other improvements I w
 	
 **Instructions:**
 
-  1. Download the [Zip]()
+  1. Download the [Zip](https://github.com/fiveseven808/Ducky-Deploy/raw/master/prod/DuckyDeploy_v1.0.zip)
   2. Run the program
   3. Enjoy! 
 		
