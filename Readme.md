@@ -24,7 +24,7 @@ My solution? Ducky Deploy! An automated DuckyScript Encoder GUI that enables any
 
 This project is not quite finished as there's a couple of other improvements I want to make, but otherwise, it's working pretty well IMHO. Let me know in the comments what you think! Suggestions/improvements?
 
-**Instructions:**  
+### Instructions: 
 **Requirements:**
 
   * Java Runtime
