@@ -36,7 +36,7 @@ This project is not quite finished as there's a couple of other improvements I w
   2. Run the program
   3. Enjoy! 
 		
-** Current version ** 
+**Current version** 
 
 - v1.0.0703.0831
 - Duck encoder 2.6.3
