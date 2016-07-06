@@ -27,12 +27,14 @@ This project is not quite finished as there's a couple of other improvements I w
 **Instructions:**  
 **Requirements:**
 
-  * Install [AutoHotKey](https://autohotkey.com/download/) (to run or compile the AHK files)
+  * Java Runtime
+  * A [Rubber Ducky](http://usbrubberducky.com/#!index.md)! 
 	
 **Instructions:**
 
-  1. none  
-*(first upload to git 7/5/2016, 2 years after first created)*
+  1. Download the [Zip]()
+  2. Run the program
+  3. Enjoy! 
 		
 ** Current version** 
 
